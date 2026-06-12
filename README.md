@@ -17,6 +17,7 @@
 - Password-Guessing-Game https://github.com/Harmony-27/Password-Guessing-Game.git
 - Student-Report-Card https://github.com/Harmony-27/Student-Report-Card.git
 - Expense-Report https://github.com/Harmony-27/Expense-Report.git
+- Number-Analyzer-Tool https://github.com/Harmony-27/Number-Analyzer-Tool.git
 
 ## ⚡ Fun Fact
 • I love asking questions, solving small problems, and trying to understand how things work
